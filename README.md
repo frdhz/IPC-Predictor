@@ -13,4 +13,11 @@ The database was created by tracking the following macroeconomic indicators over
 - **IPC**: The value of the mexican stock exchange. <br/>
 <br/>
 
-A problem was found, because not all of this indicators are reported daily. A code was implemented so that values that are reported quarterly (GDP) or biweekly (RFR) were filled daily.
+A problem was found, because not all of this indicators are reported daily. A code was implemented so that values that are reported quarterly (GDP) or biweekly (RFR) were filled daily. This code is found on the document named "Filler".  <br/>
+<br/>
+The machine learning algorithm that were implemented are: <br/>
+- **Decision Tree (DT)** <br/>
+- **Random Forest (RF)** <br/>
+- **Support Vector Machine (SVM)** <br/>
+<br/>
+
