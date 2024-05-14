@@ -8,5 +8,9 @@ The database was created by tracking the following macroeconomic indicators over
 - **GDP**: The perecentage of GDP grown each quarter of a year. <br/>
 - **RFR**: The rate of return of government issued bonds (CETES).<br/>
 - **Forex**: The exchange rate betwen the Mexican Peso and the US dollar. <br/>
-- **CPI**: <br/>
+- **CPI**: The inflation rate. <br/>
+- **UR**: Unemployment rate. <br/>
+- **IPC**: The value of the mexican stock exchange. <br/>
+<br/>
 
+A problem was found, because not all of this indicators are reported daily. A code was implemented so that values that are reported quarterly (GDP) or biweekly (RFR) were filled daily.
