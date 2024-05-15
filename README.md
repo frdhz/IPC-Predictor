@@ -21,3 +21,4 @@ The machine learning algorithm that were implemented are: <br/>
 - **Support Vector Machine (SVM)** <br/>
 <br/>
 
+The models were evaluted by measuring the following elements:
